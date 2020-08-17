@@ -1,4 +1,4 @@
-module github.com/worldr/hover
+module github.com/worldr/hover-shim
 
 go 1.14
 
